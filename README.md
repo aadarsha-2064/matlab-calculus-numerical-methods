@@ -6,7 +6,7 @@ Each section below shows the program's purpose, a link to its source code, and i
 
 ---
 
-## 🧮 Topics Covered
+## 🧮 Topics Covered 
 
 | # | Topic |
 |---|-------|
