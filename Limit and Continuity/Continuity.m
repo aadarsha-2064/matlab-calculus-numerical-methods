@@ -1,0 +1,5 @@
+f = piecewise(x < 1, x^2, x >= 1, 2*x-1);
+
+disp('Function:');
+
+disp(f)
