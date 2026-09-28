@@ -6,7 +6,7 @@ Each section below shows the program's purpose, a link to its source code, and i
 
 ---
 
-## 🧮 Topics Covered 
+## 🧮 Topics Covered
 
 | # | Topic |
 |---|-------|
@@ -118,6 +118,17 @@ Solves a linear programming maximization problem using MATLAB's linprog function
 [![View Code](https://img.shields.io/badge/View%20Code-simplex.m-blue?style=for-the-badge&logo=github)](./Computational%20Method/simplex.m)
 
 ![Simplex Output](output/Computational_Method_img/simplex_pic.png)
+
+---
+
+## 📥 Lab Report
+
+The complete lab report (Word document) for these programs is available for download below.
+
+[![Download Report](https://img.shields.io/badge/Download-Lab%20Report%20(.docx)-success?style=for-the-badge&logo=microsoftword)](https://github.com/<your-username>/<repo-name>/raw/main/report/MATLAB_Lab_Report.docx)
+
+> ### ⚠️ Disclaimer
+> This report is shared **for reference and learning purposes only**. Please do not copy or submit it as your own work. Use it to understand the format and approach, then prepare your own report with your own programs, outputs, and explanations. Academic integrity is your responsibility.
 
 ---
 
