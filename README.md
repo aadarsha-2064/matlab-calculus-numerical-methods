@@ -125,7 +125,13 @@ Solves a linear programming maximization problem using MATLAB's linprog function
 
 The complete lab report (Word document) for these programs is available for download below.
 
-[![Download Report](https://img.shields.io/badge/Download-Lab%20Report%20(.docx)-success?style=for-the-badge&logo=microsoftword)](https://github.com/<your-username>/<repo-name>/raw/main/report/MATLAB_Lab_Report.docx)
+<p align="center">
+  <a href="https://github.com/aadarsha-2064/matlab-calculus-numerical-methods/raw/main/report/MATLAB_Lab_Report.docx">
+    <img src="https://img.shields.io/badge/%E2%AC%87%20%20CLICK%20HERE%20TO%20DOWNLOAD%20REPORT-2ea44f?style=for-the-badge" alt="Click here to download report">
+  </a>
+  <br>
+  <sub>Word document (.docx) | Downloads automatically when clicked</sub>
+</p>
 
 > ### ⚠️ Disclaimer
 > This report is shared **for reference and learning purposes only**. Please do not copy or submit it as your own work. Use it to understand the format and approach, then prepare your own report with your own programs, outputs, and explanations. Academic integrity is your responsibility.
